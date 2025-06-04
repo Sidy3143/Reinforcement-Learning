@@ -9,3 +9,4 @@ hands-on exploration of core RL algorithms implemented and tested in clean, well
 | `DQN.ipynb`          | Deep Q-Network               | PyTorch   | DQN with experience replay               |
 | `PPO_pytorch.ipynb`  | Proximal Policy Optimization | PyTorch   | Stable on-policy algorithm used in mainly in RLHF  |
 | `SAC_pytorch.ipynb`  | Soft Actor-Critic            | PyTorch   | Off-policy algorithm for continuous control problems       |
+|`Run_shoot_pass.ipynb`| PPO                          | Pytorch   | Implementing PPO using stable_baselines on gfootball |
